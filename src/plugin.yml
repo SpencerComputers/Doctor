@@ -1,0 +1,7 @@
+main: com.HomeSMP.Doctor.Main
+name: Doctor
+version: 1.0
+author: spencermacca
+
+commands:
+  Doctor:
